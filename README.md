@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Israel Olayinka!
 
-<!--
-**Olayinka-2/Olayinka-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught frontend developer, I love building clean and responsive web apps.  
+Currently diving deep into **React**, **TypeScript**, and **Web3** technologies.  
+Always learning. Always building.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- ⚛️ React, Next.js
+- 🛠️ TypeScript, JavaScript
+- 💅 Tailwind CSS, Styled Components
+- 🔗 Solidity & Smart Contracts (exploring Web3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Projects
+- Building modern dashboards and DApps
+- Learning Ethereum development & process automation
+
+### 🌐 Let's Connect!
+- Portfolio: [israelolayinka.dev](https://olayinka-2.github.io/Portfolio/)
+- LinkedIn: [Israel Olayinka](linkedin.com/in/israel-olayinka-775305307/)
+
