@@ -5,7 +5,7 @@ Currently diving deep into **React**, **TypeScript**, and **Web3** technologies.
 Always learning. Always building.
 
 ### 🚀 Tech Stack
-- ⚛️ React, Next.js
+- ⚛️ React
 - 🛠️ TypeScript, JavaScript
 - 💅 Tailwind CSS, Styled Components
 - 🔗 Solidity & Smart Contracts (exploring Web3)
