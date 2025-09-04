@@ -11,10 +11,10 @@ Always learning. Always building.
 - 🔗 Solidity & Smart Contracts (exploring Web3)
 
 ### 🧠 Current Projects
-- Building modern dashboards and DApps
-- Learning Ethereum development & process automation
+- Building modern dashboards, ecommerce sites and school administrative systems
+- Learning Ethereum development & smart contracts
 
 ### 🌐 Let's Connect!
-- Portfolio: [israelolayinka.dev](https://olayinka-2.github.io/Portfolio/)
+- Portfolio: [israelolayinka.dev](https://portfolio-five-xi-30.vercel.app/)
 - LinkedIn: [Israel Olayinka](linkedin.com/in/israel-olayinka-775305307/)
 
