@@ -16,5 +16,5 @@ Always learning. Always building.
 
 ### 🌐 Let's Connect!
 - Portfolio: [israelolayinka.dev](https://portfolio-five-xi-30.vercel.app/)
-- LinkedIn: [Israel Olayinka](linkedin.com/in/israel-olayinka-775305307/)
+- LinkedIn: [Israel Olayinka](https://linkedin.com/in/israel-olayinka-775305307/)
 
