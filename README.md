@@ -1,18 +1,44 @@
-## 👋 Hi there, I'm Israel Olayinka!
+🧑‍💻 Israel Olayinka
+👋 Hi there!
 
-I'm a self-taught frontend developer, I love building clean and responsive web apps.  
-Currently diving deep into **React**, **TypeScript**, and **Web3** technologies.  
-Always learning. Always building.
+I'm Israel, a passionate Frontend Developer who loves turning design concepts into smooth, responsive, and accessible web experiences.
+I focus on writing clean, maintainable code and continuously improving through real-world projects and collaboration.
 
-### 🚀 Tech Stack
-- ⚛️ React
-- 🛠️ TypeScript, JavaScript
-- 💅 Tailwind CSS, Styled Components
+⚙️ Tech Stack
 
-### 🧠 Current Projects
-- Building modern dashboards, ecommerce sites and school administrative systems
+Languages: JavaScript, TypeScript, HTML5, CSS3
 
-### 🌐 Let's Connect!
+Frameworks & Libraries: React, Next.js, Tailwind CSS, Bootstrap
+
+Tools & Version Control: Git, GitHub, VS Code, npm
+
+Other Skills: UI Optimization, Responsive Design, Accessibility
+
+
+Certifications & Courses:
+
+The Odin Project — Full Stack JavaScript Curriculum (Frontend Track)
+
+FreeCodeCamp — Responsive Web Design & JavaScript Algorithms
+
+Cisco Networking Academy — Introduction to Programming with JavaScript
+
+
+🌟 Featured Projects
+Project	Description	Stack
+🏫 School Management System	Built an interactive dashboard for managing students, courses, and attendance.	React, TypeScript, Tailwind
+🤖 AI Assistant Clone	Created an AI chatbot clone UI with modern React patterns and API integration.	React, Tailwind
+💼 Portfolio Website	Personal website showcasing my projects, resume, and contact info.	React, Tailwind, Vite
+📈 What I'm Working On
+
+Enhancing my frontend architecture skills with React.js and Next.
+
+Building reusable UI components for a design system.
+
+Contributing to open-source projects that improve developer experience.
+
+📫 Let’s Connect
+
+- Email: olayinkaisrael001@gmail.com
 - Portfolio: [israelolayinka.dev](https://portfolio-five-xi-30.vercel.app/)
 - LinkedIn: [Israel Olayinka](https://linkedin.com/in/israel-olayinka-775305307/)
-
