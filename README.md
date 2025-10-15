@@ -8,11 +8,9 @@ Always learning. Always building.
 - ⚛️ React
 - 🛠️ TypeScript, JavaScript
 - 💅 Tailwind CSS, Styled Components
-- 🔗 Solidity & Smart Contracts (exploring Web3)
 
 ### 🧠 Current Projects
 - Building modern dashboards, ecommerce sites and school administrative systems
-- Learning Ethereum development & smart contracts
 
 ### 🌐 Let's Connect!
 - Portfolio: [israelolayinka.dev](https://portfolio-five-xi-30.vercel.app/)
